@@ -1,0 +1,19 @@
+import React, { Component } from "react";
+
+class DLfetchInfo extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+      <div class="container">
+                <Table>
+                        <tr><td>DLfetchInfo:	</td><td>	Test </td></tr>	 
+				</Table>
+      </div>
+    );
+  }
+}
+     
+export default DLfetchInfo;
